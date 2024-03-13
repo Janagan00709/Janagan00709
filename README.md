@@ -11,33 +11,33 @@
 
 ### Languages and Tools:
 #### Frontend:
-![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)
-![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
-![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
-![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)
+![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg | width=30)
+![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg | width=30)
+![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg | width=30)
+![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg | width=30)
 
 #### Backend:
-![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)
-![Express.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg)
-![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg)
+![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg | width=30)
+![Express.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg | width=30)
+![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg | width=30)
 
 #### Databases:
-![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg)
-![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)
-![Oracle](https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg)
+![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg | width=30)
+![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg | width=30)
+![Oracle](https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg | width=30)
 
 #### Programming languages:
-![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
-![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
+![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg | width=30)
+![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg | width=30)
 
 #### AI Software:
-![Pandas](https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg)
+![Pandas](https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg | width=30)
 
 #### Other Tools:
-![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg)
-![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
-![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)
-![Unity](https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg)
+![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg | width=30)
+![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg | width=30)
+![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg | width=30)
+![Unity](https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg | width=30)
 
 #### Cloud:
-![AWS](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)
+![AWS](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg | width=30)
