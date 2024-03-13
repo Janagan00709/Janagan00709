@@ -7,7 +7,9 @@
 - 📫 To reach me: [Janagan00709@gmail.com](mailto:Janagan00709@gmail.com)
 
 ### Connect with me:
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/janagan-a-260076225)
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/janagan-a-260076225" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/janagan-a-260076225" height="30" width="40" /></a>
+</p>
 
 ### Languages and Tools:
 #### Frontend:
